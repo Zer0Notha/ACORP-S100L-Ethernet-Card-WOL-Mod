@@ -23,4 +23,4 @@ So we can correct this situation by following some steps:
 - Notify RTL about external power supply by soldering ~15kOhm resistor between AUX RTL Pin and A14 PCI Pin
 - Make sure that when PCI power down ISOLATEB Pin is not powered up (This isolates PCI bus from RTL when the motherboard is powered down)
 
-![image](https://github.com/Zer0Notha/ACORP-S100L-Ethernet-Card-WOL-Mod/blob/master/images/3.jpg)
+![image](https://github.com/Zer0Notha/ACORP-S100L-Ethernet-Card-WOL-Mod/blob/master/images/3.png)
