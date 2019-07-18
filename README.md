@@ -1,5 +1,5 @@
 # ACORP-S100L-Ethernet-Card-WOL-Mod
-Easy hardware mod enables WOL support in acorp-s100l ethernet card
+Easy hardware mod enables Wake on LAN support in acorp-s100l ethernet card
 ## Modification
 Things Required:
 - 15k ohm resistor SMD, 1 Piece
