@@ -15,7 +15,7 @@ After
 
 ## Explanation of what's going on
 
-Any RTL8139D or RTL8139C based ethernet can include WOL function itself because WOL realized by hardware in RTL, but some manufacturers do not bother to add this feature.
+Any RTL8139D or RTL8139C based ethernet card can include WOL function itself because WOL realized by hardware in RTL, but some manufacturers do not bother to add this feature.
 So we can correct this situation by following some steps:
 - Locate RTL Power node what connected to PCI +5V through diode
 - Locate A14 PCI Pin
